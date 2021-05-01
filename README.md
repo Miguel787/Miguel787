@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mcruzlehardy@gmail.com**
 
-- ⚡ Fun fact **I was an Archaeologist**
+- ⚡ Fun fact **Before I began coding I was an Archaeologist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
