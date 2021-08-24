@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GreenRoom and my portfolio site**
 
-- 📫 How to reach me **mcruzlehardy@gmail.com**
+- 📫 How to reach me **contactus@mcruzlehardy.dev**
 
 - ⚡ Fun fact **Before I was coding I was an Archaeologist**
 
