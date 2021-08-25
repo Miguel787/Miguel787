@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Cruz Le Hardy</h1>
 <h3 align="center">A passionate frontend developer from Miami</h3>
 
-- 🔭 I’m currently working on **GreenRoom and my portfolio site**
+- 🔭 I’m currently working on **Javascript30 and an Ecommerce Site**
 
 - 📫 How to reach me **contactus@mcruzlehardy.dev**
 
