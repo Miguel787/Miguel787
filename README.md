@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Cruz Le Hardy</h1>
 <h3 align="center">A passionate frontend developer from Miami</h3>
 
-- 🔭 I’m currently working on **Getting CKAD certification**
+- 🔭 I’m currently working on **getting my CKAD certification**
 
 - 📫 How to reach me **contactus@mcruzlehardy.dev**
 
